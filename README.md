@@ -5,7 +5,7 @@
 https://fabienpl.github.io/OverSimplifiedTips/
 
 
-[link Contact](Contact)
+[Contact](Contact)
+{ some code, part of Definition 1 }
 
-
-test
+        { some code, part of Definition 2 }
