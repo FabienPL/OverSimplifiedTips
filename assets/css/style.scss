@@ -4,5 +4,8 @@
 @import "{{ site.theme }}";
 
 .leftnavig {
-  background-color: blue;
+  background-color: lightgray;
+  float: left;
+  margin: 40px;
+  min-width: 250px;
 }
